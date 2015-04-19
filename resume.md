@@ -38,9 +38,9 @@
 
 ##profile
 ![](http://postfiles2.naver.net/20150419_1/risieun513_1429437563755MSkpB_JPEG/KakaoTalk_20150419_185204424.jpg?type=w2)
-•Name : 이시은 (22세)
-•Phone number : 010.5501.2371
-•E-maile : risieun513@naver.com
+	*Name : 이시은 (22세)
+	*Phone number : 010.5501.2371
+	*E-mail : risieun513@naver.com
     
     
 
